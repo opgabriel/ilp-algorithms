@@ -1,13 +1,4 @@
-""" Universidade Federal de Minas Gerais
-	Instituto de Ciencias Exatas - ICEx
-	Departamento de Ciencia da Computacao - DCC
-	DCC035: Pesquisa Operacional - Prof. Gabriel Coutinho
-
-   	Trabalho Pratico 2 - Programacoes Inteiras
-   	ALGORITMO PRIMAL-DUAL PARA O SET-COVER
-
-   	Gabriel Pereira de Oliveira - 2015004160
-"""
+# Algoritmo primal-dual para o problema de set-cover por Gabriel Oliveira
 
 import numpy as np
 import sys
